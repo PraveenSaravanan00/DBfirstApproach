@@ -1,0 +1,6 @@
+@practiceForDbFirstApp_HostAddress = http://localhost:5134
+
+GET {{practiceForDbFirstApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
